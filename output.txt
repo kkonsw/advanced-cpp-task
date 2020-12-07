@@ -1,0 +1,4 @@
+-3:three 1:abs 2:x
+-3:three 1:again 2:x
+-1:foo 0:bar 1:abs
+-1:foo 0:bar 1:again
